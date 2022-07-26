@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/ods/static/js/main.110c62ec.js",
+    "static/media/pobreza.jpg": "/ods/static/media/pobreza.53de554dbda007cffa5b.jpg",
+    "static/media/educacao.png": "/ods/static/media/educacao.d1012ed4e056282040d7.png",
+    "static/media/saude.png": "/ods/static/media/saude.41092e5bcbe13231de3f.png",
+    "static/media/fome.webp": "/ods/static/media/fome.6a8fc64c2af5c0325bf4.webp",
+    "index.html": "/ods/index.html",
+    "main.110c62ec.js.map": "/ods/static/js/main.110c62ec.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.110c62ec.js"
+  ]
+}
